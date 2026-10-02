@@ -2,7 +2,7 @@
 
 Gruppo: C7
 
-Componenti (Andrea Lemmo, lemmo2269606-ship-it, Bianca Perugini):
+Componenti (nome: Andrea Lemmo, github: lemmo2269606-ship-it; nome:  Bianca Perugini, github: BiancaPerugini ):
 
 URL del repository condiviso:https://github.com/lemmo2269606-ship-it/esercitazione-0-template
 
