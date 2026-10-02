@@ -25,7 +25,7 @@ Esito dopo la modifica e spiegazione della correzione: dopo la modifica il progr
 
 ## Step 1 — Git
 
-Quali file ho incluso nel commit e perché: osservazioni.md e hello.c perché sono i file che sono stati modificati
+Quali file ho incluso nel commit e perché: osservazioni.md e hello.c perché sono i file che sono stati modificati, quindi sono i file utili all'uso di github
 
 Come ho verificato che la versione provata sia presente su GitHub: github ha mostrato la versione precedente e successiva alle modifiche, e ho confrontato quest'ultima con quella su cui ho eseguito il push
 
